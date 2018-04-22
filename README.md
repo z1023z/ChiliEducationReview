@@ -8,7 +8,7 @@
 
 ## D1-理念篇：生产力暴增的原理
 
-**第一章**：[信息时代的内容生产模式](https://github.com/AwesomeJason/AwesomeJason/blob/master/CERCExample/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E5%86%85%E5%AE%B9%E7%94%9F%E4%BA%A7%E6%A8%A1%E5%BC%8F.md)
+**第一章**：[信息时代的内容生产模式](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E5%86%85%E5%AE%B9%E7%94%9F%E4%BA%A7%E6%A8%A1%E5%BC%8F.md)
 
 - 以整个世界的生产力变革为主线，来类比不同的内容生产模式，最终引出信息时代的内容应该如何生产；
 
