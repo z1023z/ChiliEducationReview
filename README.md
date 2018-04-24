@@ -17,7 +17,7 @@
 
 ## 其他
 
-- [文档库](https://yiqixie.com/s/home/fcACp_y2ihHrnI-138cXkmZxY)
+- [文档管理](https://yiqixie.com/s/home/fcACp_y2ihHrnI-138cXkmZxY)
 
 ----
 
