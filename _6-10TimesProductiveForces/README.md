@@ -108,53 +108,53 @@
 
 ----
 
-## D4-资料查找篇：互联网检索能力决定了你获取信息的质量
-
-- 需要寻找合适的科学上网工具；
-
-**第十三章**：善用 Google
-
-- https://scholar.google.com/
-
-
-**第十四章**：让大众帮你评判
-
-- 豆瓣
-- h指数
-- 媒体评价
-- altmetric
-
-**第十五章**：
-
-
-
-----
-
 ## D4-工具篇：新的生产力需要新的工具
 
-**第十六章**：生产环节工具
+**第十三章**：生产环节工具
 
 - 编辑：写文章——Markdown（Sublime Text）
 - 图片：PPT（图片统一处理），调整成统一尺寸，以便于将来往其他平台分发时候的显示效果；
-- GitHub 使用：desktop 操作；code 放文章；Issue 放选题；Project 为项目流程；wiki 放教程；
+- GitHub 使用：code 放文章、教程；Issue 放讨论、专题；Project 为项目流程；
 
-> 注：网上找到一个GitHub教程合集 [my-git/how-to-use-github.md at master · xirong/my-git](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)
+> 注：网上找到一个 GitHub 教程合集 [my-git/how-to-use-github.md at master · xirong/my-git](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)
 
-**第十七章**：存储环节工具
+**第十四章**：存储环节工具
+
+原则：GitHub（存放文档、教程，讨论，项目进度）+ 一起写（文档数据管理）+ 云盘（传输较大文档 or 电子书书库）+ win 全局搜索（快速检索关键字）
 
 - 解释 git + GitHub 版本查看
 - 在线文档：一起写
 - win 全局搜索 [4 招让你在 Windows 上极速找到所需文件 | 有用功 | 爱范儿](http://www.ifanr.com/app/717888)
 - 云盘：钉钉云盘
 
-**第十八章**：分发环节工具
+**第十五章**：分发环节工具
 
 - Markdown Here 自动排版
 
-
-**第十九章**：其他工具
+**第十六章**：其他工具
 
 - Workflowy / 幕布
+
+----
+
+## D4-资料查找篇：互联网检索能力决定了你获取信息的质量
+
+- 需要寻找合适的科学上网工具；
+
+**第十七章**：以人为本的搜索
+
+
+
+**第十八章**：善用 Google
+
+- https://scholar.google.com/
+
+**第十九章**：让大众帮你评判
+
+- 豆瓣
+- h指数
+- 媒体评价
+- altmetric
 
 ----
 
