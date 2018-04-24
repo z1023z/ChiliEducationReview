@@ -33,7 +33,7 @@
 - 确定事情具有意义
 - 锻炼组块化思维
 
-**第五章**：在微信群现场展示写一篇文章
+**第五章**：现场展示写一篇文章
 
 - [运动员受伤后医生都做了哪些事？](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%97%E4%BC%A4%E5%90%8E%E5%8C%BB%E7%94%9F%E9%83%BD%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BA%8B%EF%BC%9F.md)
 
