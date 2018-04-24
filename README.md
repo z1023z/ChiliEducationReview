@@ -11,7 +11,8 @@
 - 3-CareerEdu：职业教育栏目文档
 - 4-CharacteristicEdu：特色教育栏目文档
 - 5-EduNews：教育快报
-- 6-CERwiki：内部培训教程、标准文件等；
+- 6-10TimesProductiveForces：十倍生产力教程
+- 7-CERwiki：内部标准文件等；
 
 ----
 
