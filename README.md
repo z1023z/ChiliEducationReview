@@ -13,6 +13,7 @@
 - 5-EduNews：教育快报
 - 6-10TimesProductiveForces：十倍生产力教程
 - 7-CERwiki：内部标准文件等；
+- 8-CERdaily：日报、周报等；
 
 ## 其他
 
