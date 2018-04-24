@@ -68,7 +68,7 @@
 
 ## 干货类内容做法
 
-- 参考：[观点：教育应该转向培养隐性知识](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E8%A7%82%E7%82%B9%EF%BC%9A%E6%95%99%E8%82%B2%E5%BA%94%E8%AF%A5%E8%BD%AC%E5%90%91%E5%9F%B9%E5%85%BB%E9%9A%90%E6%80%A7%E7%9F%A5%E8%AF%86.md)
+- 参考：[观点：教育应该转向培养隐性知识](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E8%A7%82%E7%82%B9%EF%BC%9A%E6%95%99%E8%82%B2%E5%BA%94%E8%AF%A5%E8%BD%AC%E5%90%91%E5%9F%B9%E5%85%BB%E9%9A%90%E6%80%A7%E7%9F%A5%E8%AF%86.md)
 - 来源：书籍、公众号、国内外新闻网站、Blog 等
 
 ## 人员工作量
