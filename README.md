@@ -14,6 +14,10 @@
 - 6-10TimesProductiveForces：十倍生产力教程
 - 7-CERwiki：内部标准文件等；
 
+## 其他
+
+- [文档库](https://yiqixie.com/s/home/fcACp_y2ihHrnI-138cXkmZxY)
+
 ----
 
 ## ChangeLog
