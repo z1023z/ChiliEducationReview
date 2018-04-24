@@ -35,7 +35,7 @@
 
 **第五章**：在微信群现场展示写一篇文章
 
-- 运动员受伤后医生都做了哪些事？（Rest, Ice, Compression, Elivation)
+- [运动员受伤后医生都做了哪些事？](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%97%E4%BC%A4%E5%90%8E%E5%8C%BB%E7%94%9F%E9%83%BD%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BA%8B%EF%BC%9F.md)
 
 #### D1-篇末输出：
 
@@ -46,16 +46,16 @@
 
 ## D2-读书篇：结构化书籍的背后是碎片化思想
 
-**第六章**：[书籍的类型](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E4%B9%A6%E7%B1%8D%E7%9A%84%E7%B1%BB%E5%9E%8B.md)
+**第六章**：[书籍的类型](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E4%B9%A6%E7%B1%8D%E7%9A%84%E7%B1%BB%E5%9E%8B.md)
 
 - 简略介绍虚构、非虚构、合集，最后提到「具有独立模因的书籍」；
 - 介绍模因的概念
 
-**第七章**：[如何构建属于自己的知识世界？请向大自然学习](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9F%A5%E8%AF%86%E4%B8%96%E7%95%8C%EF%BC%9F%E8%AF%B7%E5%90%91%E5%A4%A7%E8%87%AA%E7%84%B6%E5%AD%A6%E4%B9%A0.md)
+**第七章**：[如何构建属于自己的知识世界？请向大自然学习](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9F%A5%E8%AF%86%E4%B8%96%E7%95%8C%EF%BC%9F%E8%AF%B7%E5%90%91%E5%A4%A7%E8%87%AA%E7%84%B6%E5%AD%A6%E4%B9%A0.md)
 
 - 从分形的概念讲起，最终说明大部分非虚构文章和书籍是不同层级的分形，结构类似；
 
-**第八章**：[张五常的读书的方法](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E5%BC%A0%E4%BA%94%E5%B8%B8%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%AC%A6%E5%90%88%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%8E%9F%E7%90%86.md) + [如何读懂很深奥的资料](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E5%A6%82%E4%BD%95%E8%AF%BB%E6%87%82%E5%BE%88%E6%B7%B1%E5%A5%A5%E7%9A%84%E8%B5%84%E6%96%99.md)
+**第八章**：[张五常的读书的方法](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E5%BC%A0%E4%BA%94%E5%B8%B8%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%9F%E5%9B%A0%E4%B8%BA%E7%AC%A6%E5%90%88%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%8E%9F%E7%90%86.md) + [如何读懂很深奥的资料](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E5%A6%82%E4%BD%95%E8%AF%BB%E6%87%82%E5%BE%88%E6%B7%B1%E5%A5%A5%E7%9A%84%E8%B5%84%E6%96%99.md)
 
 - 快读、慢读、选读、八面受敌；
 
