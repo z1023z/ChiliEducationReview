@@ -2,27 +2,30 @@
 
 ## 说明
 
-本文为内容组内训书籍《从周更 2 篇到周更 20 篇：内容生产力暴增 10 倍的秘密》目录，共 20 章，计划更新字数：15-20W。
+基于[当前版本栏目规划](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/CER-Plan.md)，为提高内容团队整体生产效率和质量，特撰写本教程。
+
+- 教程名称：《从周更 2 篇到周更 20 篇：内容生产力暴增 10 倍的秘密》
+- 计划：共 20 章，更新字数约 15W-20W 字。
 
 ----
 
 ## D1-理念篇：生产力暴增的原理
 
-**第一章**：[信息时代的内容生产模式](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E5%86%85%E5%AE%B9%E7%94%9F%E4%BA%A7%E6%A8%A1%E5%BC%8F.md)
+**第一章**：[信息时代的内容生产模式](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E5%86%85%E5%AE%B9%E7%94%9F%E4%BA%A7%E6%A8%A1%E5%BC%8F.md)
 
 - 以整个世界的生产力变革为主线，来类比不同的内容生产模式，最终引出信息时代的内容应该如何生产；
 
-**第二章**：[老牌杂志社——内容工业下的文章](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E8%80%81%E7%89%8C%E6%9D%82%E5%BF%97%E7%A4%BE%E2%80%94%E2%80%94%E5%86%85%E5%AE%B9%E5%B7%A5%E4%B8%9A%E4%B8%8B%E7%9A%84%E6%96%87%E7%AB%A0.md)
+**第二章**：[老牌杂志社——内容工业下的文章](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E8%80%81%E7%89%8C%E6%9D%82%E5%BF%97%E7%A4%BE%E2%80%94%E2%80%94%E5%86%85%E5%AE%B9%E5%B7%A5%E4%B8%9A%E4%B8%8B%E7%9A%84%E6%96%87%E7%AB%A0.md)
 
 - 分析评论类杂志的干货文章模式，以《哈佛商业评论》为主，最终得出干货文章的组成公式；
 - 提高内容生产力的秘密，就在于用一定的手法，把特定的内容源输出成为特定的公式；
 
-**第三章**：[《深度工作》：当整个社会都很浮躁时，你可以这样胜出](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E3%80%8B%EF%BC%9A%E5%BD%93%E6%95%B4%E4%B8%AA%E7%A4%BE%E4%BC%9A%E9%83%BD%E5%BE%88%E6%B5%AE%E8%BA%81%E6%97%B6%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E8%83%9C%E5%87%BA.md)
+**第三章**：[《深度工作》：当整个社会都很浮躁时，你可以这样胜出](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E3%80%8B%EF%BC%9A%E5%BD%93%E6%95%B4%E4%B8%AA%E7%A4%BE%E4%BC%9A%E9%83%BD%E5%BE%88%E6%B5%AE%E8%BA%81%E6%97%B6%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E8%83%9C%E5%87%BA.md)
 
 - 沉浸式工作，能获得更高效率
 - 限时屏蔽外界干扰
 
-**第四章**：[想让工作简洁高效，你可以试试这五个方法](https://github.com/AwesomeJason/AwesomeLiang/blob/master/ChiliEducationReview/%E6%83%B3%E8%AE%A9%E5%B7%A5%E4%BD%9C%E7%AE%80%E6%B4%81%E9%AB%98%E6%95%88%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%AF%95%E8%AF%95%E8%BF%99%E4%BA%94%E4%B8%AA%E6%96%B9%E6%B3%95.md)
+**第四章**：[想让工作简洁高效，你可以试试这五个方法](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/%E6%83%B3%E8%AE%A9%E5%B7%A5%E4%BD%9C%E7%AE%80%E6%B4%81%E9%AB%98%E6%95%88%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%AF%95%E8%AF%95%E8%BF%99%E4%BA%94%E4%B8%AA%E6%96%B9%E6%B3%95.md)
 
 - 设置免打扰时间
 - 拆分计划
