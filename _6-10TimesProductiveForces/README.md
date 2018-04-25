@@ -122,6 +122,7 @@
 
 原则：GitHub（存放文档、教程，讨论，项目进度）+ 一起写（文档数据管理）+ 云盘（传输较大文档 or 电子书书库）+ win 全局搜索（快速检索关键字）
 
+-[Markdown, git 和 GitHub](https://github.com/AwesomeJason/ChiliEducationReview/blob/master/_6-10TimesProductiveForces/Markdown%2C%20git%20%E5%92%8C%20GitHub.md)
 - 解释 git + GitHub 版本查看
 - 在线文档：[一起写](https://yiqixie.com/s/home/fcACp_y2ihHrnI-138cXkmZxY)
 - win 全局搜索 [4 招让你在 Windows 上极速找到所需文件 | 有用功 | 爱范儿](http://www.ifanr.com/app/717888)
@@ -171,4 +172,5 @@
 
 ## ChangeLog
 
+- 201804251002 李亮增补工具篇
 - 201804221917 李亮创建
